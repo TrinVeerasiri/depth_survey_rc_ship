@@ -19,7 +19,7 @@ There are 2 files here
 1) C++ Arduino code use to acquire the data from GARMIN and send them to Google Sheet on cloud
 2) MATLAB code use to print the underwater topology.
 
-* Must manually copy the data to plot in MATLAB.
+### !Must manually copy the data to plot in MATLAB.
 
 <p align="center">
   <img width="400" height="265" src="rc_ship_scaled.jpg">

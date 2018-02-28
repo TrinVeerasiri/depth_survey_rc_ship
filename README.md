@@ -24,15 +24,15 @@ There are 2 files here
 <p align="center">
   <img width="400" height="265" src="rc_ship_scaled.jpg">
 </p>
-
 <p align="center">
   RC Ship with Arduino Yun as microcontroller and GARMIN GPSmap 421s inside
 </p>
 
+<br>
+
 <p align="center">
   <img width="404" height="313" src="underwater_topology_scaled.jpg">
 </p>
-
 <p align="center">
   The data from GARMIN GPSmap 421s is plotted in MATLAB
  </p>

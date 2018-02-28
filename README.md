@@ -18,5 +18,5 @@ First, we hack the GARMIN GPSmap 421s by wiring it to serial port. Using Arduino
 ![Screenshot](rc_ship_scaled.jpg)
 RC Ship with Arduino Yun as microcontroller and GARMIN GPSmap 421s inside
 
-![Screenshot](underwater_topology_scaled.JPG)
+![Screenshot](underwater_topology_scaled.jpg)
 The data from GARMIN GPSmap 421s is plotted in MATLAB

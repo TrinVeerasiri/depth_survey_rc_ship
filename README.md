@@ -1,6 +1,7 @@
 # depth_survey_rc_ship
 
 Our objective
+
 Create a RC ship to carry a GARMIN GPSmap 421s to collect the depth and location. Then use these information to create a underwater topology. USB web camera is in testing phrase. We use web cam to avoid obstacle on the water.
 
 We have

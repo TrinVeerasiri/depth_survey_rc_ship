@@ -17,9 +17,9 @@ First, we hack the GARMIN GPSmap 421s by wiring it to serial port. Using Arduino
 
 There are 2 files here
 1) C++ Arduino code use to acquire the data from GARMIN and send them to Google Sheet on cloud
-2) MATLAB code use to print the underwater topology.
+2) MATLAB code use to print the underwater topology. The data must manually copy the data to plot in MATLAB.
 
-#### !Must manually copy the data to plot in MATLAB.
+<br>
 
 <p align="center">
   <img width="400" height="265" src="rc_ship_scaled.jpg">
